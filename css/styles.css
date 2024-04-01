@@ -102,7 +102,7 @@ color: #434455;
 }
 
 .team{
-background-color: #F4F4FD
+background-color: #F4F4FD;
 }
 
 .team-title {
@@ -117,7 +117,7 @@ color: #2e2f42 ;
                                                                                  
 
 .team-title-img {
-background-color: #FFFFFF
+background-color: #FFFFFF;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -140,7 +140,7 @@ color: #434455;
   color: #f4f4fd;
 }
 .logo-footer{
-color:#4d5ae5
+color:#4d5ae5;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
