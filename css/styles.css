@@ -114,7 +114,9 @@ text-align: center;
 text-transform: capitalize;
 color: #2e2f42 ;
 }
-                                                                                 
+   .team-list{
+ background-color: #FFFFFF;
+   }                                                                              
 
 .team-title-img {
 background-color: #FFFFFF;
